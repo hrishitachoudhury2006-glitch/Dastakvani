@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">दस्तक वाणी (Dastak Vani)</string>
+    <string name="app_tagline">The Voice That Knocks — आवाज जो दस्तक दे</string>
+    
+    <!-- Actions -->
+    <string name="action_file_complaint">शिकायत बोलें (File Complaint)</string>
+    <string name="action_check_status">स्थिति देखें (Check Status)</string>
+    <string name="action_village_wall">ग्राम मंच (Complaint Box)</string>
+    <string name="action_volunteer_portal">कार्यकर्ता पोर्टल (Volunteer/NGO)</string>
+    
+    <!-- Status -->
+    <string name="status_submitted">दर्ज (Submitted)</string>
+    <string name="status_acknowledged">स्वीकृत (Acknowledged)</string>
+    <string name="status_in_progress">कार्य प्रगति पर (In Progress)</string>
+    <string name="status_resolved">समाधान हो गया (Resolved)</string>
+    <string name="status_escalated">विधिक अपील / RTI (Escalated)</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Professional White + Blue Civic Palette -->
+    <color name="primary_blue">#1565C0</color>
+    <color name="primary_dark_navy">#0D47A1</color>
+    <color name="primary_light_blue">#1E88E5</color>
+    <color name="surface_light_blue">#E3F2FD</color>
+    <color name="surface_card">#F8FAFC</color>
+    <color name="background_white">#FFFFFF</color>
+    
+    <color name="text_dark">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="border_subtle">#E2E8F0</color>
+    
+    <!-- Civic Accent Colors -->
+    <color name="accent_red">#D32F2F</color>       <!-- Urgent / Child Safety -->
+    <color name="accent_green">#2E7D32</color>     <!-- Resolved / Success -->
+    <color name="accent_amber">#ED6C02</color>     <!-- In Progress / Warning -->
+    <color name="accent_purple">#7B1FA2</color>    <!-- Education -->
+    <color name="accent_teal">#00796B</color>      <!-- Welfare -->
+</resources>
